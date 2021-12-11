@@ -1,0 +1,16 @@
+declare x = 5 ;
+program
+start
+   start
+      declare y = 7 ;
+      declare x = 8 ;
+      label x ;
+      listen x ;
+   stop
+   start
+      start
+         declare y = 0 ;
+         jump y ;
+      stop
+   stop
+stop

@@ -1,0 +1,7 @@
+declare x = 5 ;
+program
+start
+    declare y = 3 ;
+    assign x = x - y ;
+    talk x ;
+stop

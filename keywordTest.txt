@@ -1,0 +1,6 @@
+start stop loop
+while for label
+exit listen talk
+program if then
+assign declare jump
+else

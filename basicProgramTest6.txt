@@ -1,0 +1,9 @@
+declare y = 5 ;
+program
+start
+   listen y ;
+   if [ y % 10 ] then
+   start
+      talk y ;
+   stop ;
+stop
